@@ -1,0 +1,4 @@
+print("Welcome to the Coffee Generator name")
+City = input ("Which City did you grow up in?\n")
+Favourite_Petname = input("Whats your favourite Pet Name?\n") 
+print("Your Coffee name could be " + City + "" + Favourite_Petname)
